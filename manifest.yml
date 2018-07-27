@@ -1,0 +1,10 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: icplab
+  buildpack: liberty-for-java
+  path: ./target/icplab-1.0-SNAPSHOT.zip
+  memory: 512M
+  domain: not-used.net
+  host: not-used

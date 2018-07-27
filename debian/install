@@ -1,0 +1,3 @@
+target/liberty/wlp/usr/servers/defaultServer/icplab.zip	usr/src/icplab
+terraform/scripts/install.sh	usr/src/icplab
+terraform/scripts/start.sh		usr/src/icplab
